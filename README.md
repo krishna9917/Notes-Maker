@@ -1,1 +1,2 @@
 # Notes-Maker
+I made Notes-Maker with the help of the HTML,CSS and Javascript. In this Web application frontend make with the help of html in which one title textfield, textArea for description and make two Button for Add and remove the Notes. Tittle and Description field values are Stored in localStorage with the help of Javascript after click on Add button if the title and description field are empty then it provide Alert message. And after click on Remove Button all title and descriptions are remove from localStorage.
